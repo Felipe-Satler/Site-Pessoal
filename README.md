@@ -16,11 +16,11 @@ Se você quiser clonar e rodar este site localmente, segue aí:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/Felipe-Satler/Projetos.git
+   git clone https://github.com/Felipe-Satler/Site-Pessoal.git
    ```
 2. **Navegue até o diretório do projeto:**
    ```bash
-   cd Projetos
+   cd Site-Pessoal
    ```
 3. **Abra o arquivo `index.html` em seu navegador:**
    Basta clicar duas vezes no arquivo `index.html` ou arrastá-lo para uma nova aba do navegador.
