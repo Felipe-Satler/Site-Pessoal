@@ -1,6 +1,3 @@
-```markdown
-# Felipe Ferreira Satler Gonçalves Mól - Desenvolvedor Frontend
-
 Bem-vindo ao meu site pessoal! Este projeto é uma página simples onde você pode encontrar mais informações sobre mim, incluindo uma foto, minhas redes sociais e os projetos que desenvolvi na semana Do 0 ao Programador Contratado do Dev em Dobro.
 
 ## 🎯 Objetivo
@@ -42,5 +39,3 @@ Se você quiser clonar e rodar este site localmente, segue aí:
 ---
 
 Este projeto é um site simples criado para ser o meu portfólio online. Fique à vontade para explorar e me contatar por qualquer um dos meios listados acima!
-```
-
