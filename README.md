@@ -44,4 +44,3 @@ Se você quiser clonar e rodar este site localmente, segue aí:
 Este projeto é um site simples criado para ser o meu portfólio online. Fique à vontade para explorar e me contatar por qualquer um dos meios listados acima!
 ```
 
-Você pode copiar e colar esse código diretamente no seu arquivo `README.md` no GitHub. Substitua os placeholders com suas informações reais.
